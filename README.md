@@ -35,8 +35,3 @@ An AI-powered web application for real-time Indian Sign Language (ISL) gesture r
 - Python 3.8+
 - Webcam
 
-### Backend Setup
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
