@@ -37,9 +37,8 @@ An AI-powered web application for real-time Indian Sign Language (ISL) gesture r
 
 ### Backend Setup
 ```bash
-cd backend
 pip install -r requirements.txt
-python app.py
+python signmate_server.py
 ```
 ### Frontend Setup
 ```bash
