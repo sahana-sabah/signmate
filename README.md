@@ -4,7 +4,7 @@ An AI-powered web application for real-time Indian Sign Language (ISL) gesture r
 
 ## Features
 
-- 🤟 **Real-time ISL Detection**: Recognizes 40+ ISL gestures including letters, digits, and common words
+- 🤟 **Real-time ISL Detection**: Recognizes 40+ ISL gestures including letters, digits, and common words 
 - 🔄 **Auto Mode**: Automatically switches between letter and word detection based on hand distance
 - 🌐 **Multi-language Translation**: Translates detected signs to Hindi, Tamil, Telugu, Kannada, and more
 - 🔊 **Text-to-Speech**: Converts recognized signs into audio output
